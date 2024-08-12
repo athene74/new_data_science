@@ -1,0 +1,91 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="447AF0C3-C84B-2F19-9AFC-329268003C3A" schemaObject="E41338AF-8AE6-B7DF-B835-87B53E05EA68" name="COUNTRIES">
+<sourceConnName>HR</sourceConnName>
+<sourceObjSchema>HR</sourceObjSchema>
+<sourceObjName>COUNTRIES</sourceObjName>
+<createdBy>user</createdBy>
+<createdTime>2024-07-24 02:25:41 UTC</createdTime>
+<commentInRDBMS><![CDATA[country table. Contains 25 rows. References with locations table.]]></commentInRDBMS>
+<ownerDesignName>hr_erd.sql</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="COUNTRY_ID" id="4B124EBF-F6B7-C251-2A60-0B96C0835BFA">
+<sourceConnName>HR</sourceConnName>
+<sourceObjSchema>COUNTRIES</sourceObjSchema>
+<sourceObjName>COUNTRY_ID</sourceObjName>
+<createdBy>user</createdBy>
+<createdTime>2024-07-24 02:25:41 UTC</createdTime>
+<commentInRDBMS><![CDATA[Primary key of countries table.]]></commentInRDBMS>
+<ownerDesignName>hr_erd.sql</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>2 BYTE</dataTypeSize>
+<ownDataTypeParameters>2 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<notNullConstraintName>COUNTRY_ID_NN</notNullConstraintName>
+</Column>
+<Column name="COUNTRY_NAME" id="3B8F6220-39A5-EB4E-19B9-21A5772C446A">
+<sourceConnName>HR</sourceConnName>
+<sourceObjSchema>COUNTRIES</sourceObjSchema>
+<sourceObjName>COUNTRY_NAME</sourceObjName>
+<createdBy>user</createdBy>
+<createdTime>2024-07-24 02:25:41 UTC</createdTime>
+<commentInRDBMS><![CDATA[Country name]]></commentInRDBMS>
+<ownerDesignName>hr_erd.sql</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>40 BYTE</dataTypeSize>
+<ownDataTypeParameters>40 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="REGION_ID" id="99D3265B-0B8D-EFB8-D946-72CA63A76540">
+<sourceConnName>HR</sourceConnName>
+<sourceObjSchema>COUNTRIES</sourceObjSchema>
+<sourceObjName>REGION_ID</sourceObjName>
+<createdBy>user</createdBy>
+<createdTime>2024-07-24 02:25:41 UTC</createdTime>
+<commentInRDBMS><![CDATA[Region ID for the country. Foreign key to region_id column in the departments table.]]></commentInRDBMS>
+<ownerDesignName>hr_erd.sql</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="05E1C028-0DED-188B-F370-B8DA244C727A" referredColumn="C841D43E-6738-988D-FB7D-76131CCFB399"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="E22E80E6-3F32-4599-C80A-0E0AFF2DF5ED" schemaObject="E41338AF-8AE6-B7DF-B835-87B53E05EA68" name="COUNTRY_C_ID_PK">
+<sourceConnName>HR</sourceConnName>
+<sourceObjSchema>HR</sourceObjSchema>
+<sourceObjName>COUNTRY_C_ID_PK</sourceObjName>
+<createdBy>user</createdBy>
+<createdTime>2024-07-24 02:25:41 UTC</createdTime>
+<ownerDesignName>hr_erd.sql</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="4B124EBF-F6B7-C251-2A60-0B96C0835BFA"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="38047020-98B4-1B76-7DA3-0B6AFBCF3E12" name="COUNTR_REG_FK">
+<createdBy>user</createdBy>
+<createdTime>2024-07-24 02:25:41 UTC</createdTime>
+<ownerDesignName>hr_erd.sql</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="99D3265B-0B8D-EFB8-D946-72CA63A76540"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

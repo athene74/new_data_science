@@ -1,0 +1,33 @@
+[참고] 오픈 API URL 형식
+base URL/서비스명?파라메터1=값1&파라메터2=값2 ... &파라메터N=값N
+
+* 기본 요청 검증
+﻿http://apis.data.go.kr/1360000/VilageFcstInfoService_2.0/getUltraSrtNcst?serviceKey=Yff2okQ2i8jEUaDanPqgbSuRzoFOaP0AfYzU7Mkhe4QP9tapdiZiOvmhk%2BZeOrBMrxJqbxU6M58b1OeuM%2FOKsg%3D%3D&numOfRows=10&pageNo=1&base_date=20210628&base_time=0600&nx=55&ny=127
+
+*최신데이터 검증
+﻿http://apis.data.go.kr/1360000/VilageFcstInfoService_2.0/getUltraSrtNcst?serviceKey=Yff2okQ2i8jEUaDanPqgbSuRzoFOaP0AfYzU7Mkhe4QP9tapdiZiOvmhk%2BZeOrBMrxJqbxU6M58b1OeuM%2FOKsg%3D%3D&numOfRows=10&pageNo=1&base_date=20240730&base_time=1217&nx=55&ny=127
+
+* JSON 응답검증
+﻿http://apis.data.go.kr/1360000/VilageFcstInfoService_2.0/getUltraSrtNcst?serviceKey=Yff2okQ2i8jEUaDanPqgbSuRzoFOaP0AfYzU7Mkhe4QP9tapdiZiOvmhk%2BZeOrBMrxJqbxU6M58b1OeuM%2FOKsg%3D%3D&numOfRows=10&pageNo=1&base_date=20240730&base_time=1217&nx=55&ny=127&dataType=json
+
+* 쿼리파라메터 정리
+-고정값은 앞에 변동 값은 뒤에
+﻿http://apis.data.go.kr/1360000/VilageFcstInfoService_2.0/getUltraSrtNcst?serviceKey=Yff2okQ2i8jEUaDanPqgbSuRzoFOaP0AfYzU7Mkhe4QP9tapdiZiOvmhk%2BZeOrBMrxJqbxU6M58b1OeuM%2FOKsg%3D%3D&dataType=json&numOfRows=10&pageNo=1&base_date=20240730&base_time=1217&nx=55&ny=127
+
+* 기타 쿼리 검증
+﻿http://apis.data.go.kr/1360000/VilageFcstInfoService_2.0/getUltraSrtNcst?serviceKey=Yff2okQ2i8jEUaDanPqgbSuRzoFOaP0AfYzU7Mkhe4QP9tapdiZiOvmhk%2BZeOrBMrxJqbxU6M58b1OeuM%2FOKsg%3D%3D&dataType=json&numOfRows=10&pageNo=1&base_date=20240730&base_time=1217&nx=55&ny=127
+
+﻿=> pageNo1
+{"response":{"header":{"resultCode":"00","resultMsg":"NORMAL_SERVICE"},"body":{"dataType":"JSON","items":{"item":[{"baseDate":"20240730","baseTime":"1200","category":"PTY","nx":55,"ny":127,"obsrValue":"0"},{"baseDate":"20240730","baseTime":"1200","category":"REH","nx":55,"ny":127,"obsrValue":"77"},{"baseDate":"20240730","baseTime":"1200","category":"RN1","nx":55,"ny":127,"obsrValue":"0"},{"baseDate":"20240730","baseTime":"1200","category":"T1H","nx":55,"ny":127,"obsrValue":"30.1"},{"baseDate":"20240730","baseTime":"1200","category":"UUU","nx":55,"ny":127,"obsrValue":"1.2"},{"baseDate":"20240730","baseTime":"1200","category":"VEC","nx":55,"ny":127,"obsrValue":"200"},{"baseDate":"20240730","baseTime":"1200","category":"VVV","nx":55,"ny":127,"obsrValue":"3.3"},{"baseDate":"20240730","baseTime":"1200","category":"WSD","nx":55,"ny":127,"obsrValue":"3.5"}]},"pageNo":1,"numOfRows":10,"totalCount":8}}}
+
+﻿=> pageNo2
+{"response":{"header":{"resultCode":"00","resultMsg":"NORMAL_SERVICE"},"body":{"dataType":"JSON","items":{"item":[{"baseDate":"20240730","baseTime":"1200","category":"PTY","nx":55,"ny":127,"obsrValue":"0"},{"baseDate":"20240730","baseTime":"1200","category":"REH","nx":55,"ny":127,"obsrValue":"77"},{"baseDate":"20240730","baseTime":"1200","category":"RN1","nx":55,"ny":127,"obsrValue":"0"},{"baseDate":"20240730","baseTime":"1200","category":"T1H","nx":55,"ny":127,"obsrValue":"30.1"},{"baseDate":"20240730","baseTime":"1200","category":"UUU","nx":55,"ny":127,"obsrValue":"1.2"},{"baseDate":"20240730","baseTime":"1200","category":"VEC","nx":55,"ny":127,"obsrValue":"200"},{"baseDate":"20240730","baseTime":"1200","category":"VVV","nx":55,"ny":127,"obsrValue":"3.3"},{"baseDate":"20240730","baseTime":"1200","category":"WSD","nx":55,"ny":127,"obsrValue":"3.5"}]},"pageNo":2,"numOfRows":10,"totalCount":8}}}
+
+
+=> totalCount: 8개의 데이터만 응답하는 것으로 확인
+
+- 현재 위치에 대한 응답 확인(대구디지털혁신 진흥원)
+﻿http://apis.data.go.kr/1360000/VilageFcstInfoService_2.0/getUltraSrtNcst?serviceKey=Yff2okQ2i8jEUaDanPqgbSuRzoFOaP0AfYzU7Mkhe4QP9tapdiZiOvmhk%2BZeOrBMrxJqbxU6M58b1OeuM%2FOKsg%3D%3D&dataType=json&numOfRows=10&pageNo=1&base_date=20240730&base_time=1217&nx=91&ny=90
+
+-최소 파라메터 검증
+https://apis.data.go.kr/1360000/VilageFcstInfoService_2.0/getUltraSrtNcst?serviceKey=Yff2okQ2i8jEUaDanPqgbSuRzoFOaP0AfYzU7Mkhe4QP9tapdiZiOvmhk%2BZeOrBMrxJqbxU6M58b1OeuM%2FOKsg%3D%3D&dataType=json&base_date=20240730&base_time=1217&nx=91&ny=90

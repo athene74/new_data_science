@@ -1,0 +1,24 @@
+[참고] 오픈 API URL 형식
+base URL/서비스명?파라메터1=값1&파라메터2=값2 ... &파라메터N=값N
+
+* 기본 요청 검증
+https://apis.data.go.kr/B551893/fuel-cell-by-hour/list?serviceKey=Yff2okQ2i8jEUaDanPqgbSuRzoFOaP0AfYzU7Mkhe4QP9tapdiZiOvmhk%2BZeOrBMrxJqbxU6M58b1OeuM%2FOKsg%3D%3D&page=1&size=10&startD=20220101&endD=20230101
+
+
+*최신데이터 검증
+2024년 6월 발전실적
+https://apis.data.go.kr/B551893/fuel-cell-by-hour/list?serviceKey=Yff2okQ2i8jEUaDanPqgbSuRzoFOaP0AfYzU7Mkhe4QP9tapdiZiOvmhk%2BZeOrBMrxJqbxU6M58b1OeuM%2FOKsg%3D%3D&page=1&size=10&startD=20240601&endD=20240630
+
+- "resultMsg":"NODATA_ERROR"(7월엔 발전실적 데이터 없음)
+https://apis.data.go.kr/B551893/fuel-cell-by-hour/list?serviceKey=Yff2okQ2i8jEUaDanPqgbSuRzoFOaP0AfYzU7Mkhe4QP9tapdiZiOvmhk%2BZeOrBMrxJqbxU6M58b1OeuM%2FOKsg%3D%3D&page=1&size=10&startD=20240701&endD=20240630
+* JSON 응답검증
+
+
+* 쿼리파라메터 정리
+https://apis.data.go.kr/B551893/fuel-cell-by-hour/list?serviceKey=Yff2okQ2i8jEUaDanPqgbSuRzoFOaP0AfYzU7Mkhe4QP9tapdiZiOvmhk%2BZeOrBMrxJqbxU6M58b1OeuM%2FOKsg%3D%3D&page=1&size=10&startD=20240601&endD=20240630
+
+* 기타 쿼리 검증
+-페이지수
+https://apis.data.go.kr/B551893/fuel-cell-by-hour/list?serviceKey=Yff2okQ2i8jEUaDanPqgbSuRzoFOaP0AfYzU7Mkhe4QP9tapdiZiOvmhk%2BZeOrBMrxJqbxU6M58b1OeuM%2FOKsg%3D%3D&page=5&size=10&startD=20240601&endD=20240630
+
+https://apis.data.go.kr/B551893/fuel-cell-by-hour/list?serviceKey=Yff2okQ2i8jEUaDanPqgbSuRzoFOaP0AfYzU7Mkhe4QP9tapdiZiOvmhk%2BZeOrBMrxJqbxU6M58b1OeuM%2FOKsg%3D%3D&page=1&size=20&startD=20240601&endD=20240630

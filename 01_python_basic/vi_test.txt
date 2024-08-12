@@ -1,0 +1,62 @@
+안녕하세요!
+Hi! Good morning!
+This is Lee speaking!
+Let's do our best to learn AI!
+Let's do our best to learn AI!
+Let's do our best to learn AI!
+Let's do our best to learn AI!
+
+Let's do our best to learn AI!
+Let's do our best to learn AI!
+Let's do our best to learn AI!
+ my_result1
+my_result2
+
+Let's do our best to learn AI!
+Let's do our best to learn AI!
+Let's do our best to learn AI!
+ my_result1
+my_result2
+
+Let's do our best to learn AI!
+Let's do our best to learn AI!
+Let's do our best to learn AI!
+
+
+int a=10
+if (a>10){
+    System.out.println('test')
+    System.out.println('test')
+    System.out.println('test')
+    System.out.println('test')
+    System.out.println('test')
+    System.out.println('test')
+    System.out.println('test')
+    System.out.println('test')
+}
+
+if (a<0){
+    System.out.println('test')
+    System.out.println('test')
+    System.out.println('test')
+
+    System.out.println('test')
+    System.out.println('test')
+    System.out.println('test')
+    System.out.println('test')
+    System.out.println('test')
+    Ultra.out.println('test')
+    Beta.out.println('test')
+}
+if (a<0){
+    System.out.println('test')
+    System.out.println('test')
+    System.out.println('test')
+    System.out.println('test')
+    System.out.println('test')
+    System.out.println('test')
+    System.out.println('test')
+    System.out.println('test')
+    Ultra.out.println('test')
+    Beta.out.println('test')
+}

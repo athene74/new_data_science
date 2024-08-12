@@ -1,0 +1,6 @@
+num1 = input('첫 번째 수를 입력하세요: ')
+# print(f'당신이 입력한 숫자는 {num1}입니다.')
+num2 = input('두 번째 수를 입력하세요: ')
+# print(f'당신이 입력한 숫자는 {num2}입니다.')
+sum = int(num1) + int(num2)
+print(f'두 수의 합은 {sum}입니다.')

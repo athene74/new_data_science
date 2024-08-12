@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<SchemaObject class="oracle.dbtools.crest.model.design.relational.SchemaObject" name="MDSYS" directorySegmentName="seg_0" id="1635B3B4-F372-C5BF-37A0-12A787BCD74C">
+<createdBy>user</createdBy>
+<createdTime>2024-07-24 02:28:31 UTC</createdTime>
+<ownerDesignName>hr_erd.sql</ownerDesignName>
+<importedID>416D41AC-D4F8-50B8-1D3E-4E0ED7F85C58</importedID>
+</SchemaObject>

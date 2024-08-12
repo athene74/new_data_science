@@ -1,0 +1,18 @@
+* 요청에 대한 응답이 소수인 경우
+- 쿼리 파라메터의 조건을 다양하게 하여 다수의 호출을 하여 병합
+
+* 요청에 대한 응답이 빅데이터인 경우
+- numOfRows, pageNo, totalCount 정보를 활용하여 전체 데이터 수집
+예) totalCount:12,402인 경우
+요청에 대한 응답 건수는 numOfRows만큼 받는다.
+numOfRows 최대치를 테스트 해본다.
+가정) 테스트 결과 numOfRows가 100정도 안정적으로 데이터를 받았다.
+전체 페이지는 12,402/100 + 1 = 125 페이지로 전체 데이터 조회
+위 작업은 기본 URL 검증시 알 수 있다.
+
+numOfRows = 100;
+totalCount =12
+
+for i in range(totalCount/numOfRows):
+	pageNo = i + 1
+	요청함수()

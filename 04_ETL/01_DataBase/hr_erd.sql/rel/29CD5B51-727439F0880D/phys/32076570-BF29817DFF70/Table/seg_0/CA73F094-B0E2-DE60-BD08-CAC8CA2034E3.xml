@@ -1,0 +1,79 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev11g class="oracle.dbtools.crest.model.design.storage.oracle.v11g.TableProxyOraclev11g" name="DEPARTMENTS" directorySegmentName="seg_0" id="CA73F094-B0E2-DE60-BD08-CAC8CA2034E3">
+<createdBy>user</createdBy>
+<createdTime>2024-07-24 02:25:41 UTC</createdTime>
+<ownerDesignName>hr_erd.sql</ownerDesignName>
+<schemaObject>E41338AF-8AE6-B7DF-B835-87B53E05EA68</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>75F0069B-A1BC-40BD-5AD7-BF0B2E58F4E1</segment>
+<tableSpace>FF16B99A-103D-6E93-51B3-ED59448823DE</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="LOCATION_ID" id="1E49B4C9-4B0D-57E4-8059-252E8DFC5C01">
+<createdBy>user</createdBy>
+<createdTime>2024-07-24 02:25:41 UTC</createdTime>
+<ownerDesignName>hr_erd.sql</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="MANAGER_ID" id="54FA0FD0-A380-429C-8C14-A93DD4C7C03E">
+<createdBy>user</createdBy>
+<createdTime>2024-07-24 02:25:41 UTC</createdTime>
+<ownerDesignName>hr_erd.sql</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="DEPARTMENT_NAME" id="5E8878B7-FB8C-DF96-FF88-BD2626895412">
+<createdBy>user</createdBy>
+<createdTime>2024-07-24 02:25:41 UTC</createdTime>
+<ownerDesignName>hr_erd.sql</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="DEPARTMENT_ID" id="9F4B79D2-C530-F4C1-27DA-777CED381F19">
+<createdBy>user</createdBy>
+<createdTime>2024-07-24 02:25:41 UTC</createdTime>
+<ownerDesignName>hr_erd.sql</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<indexProxies>
+<IndexProxy class="oracle.dbtools.crest.model.design.storage.oracle.v10g.IndexProxyOraclev10g" name="DEPT_LOCATION_IX" id="84D4B1E5-92F1-0177-E8FC-E4D0EC3DFC04">
+<createdBy>user</createdBy>
+<createdTime>2024-07-24 02:25:41 UTC</createdTime>
+<ownerDesignName>hr_erd.sql</ownerDesignName>
+<schemaObject>E41338AF-8AE6-B7DF-B835-87B53E05EA68</schemaObject>
+<segment>18A3AEA1-AE18-8D08-756E-21BC7ABD523B</segment>
+<tableSpace>FF16B99A-103D-6E93-51B3-ED59448823DE</tableSpace>
+</IndexProxy>
+<IndexProxy class="oracle.dbtools.crest.model.design.storage.oracle.v10g.IndexProxyOraclev10g" name="DEPT_ID_PK" id="BC696EC8-A696-42D5-13A1-B4FC3C7897B5">
+<createdBy>user</createdBy>
+<createdTime>2024-07-24 02:25:41 UTC</createdTime>
+<ownerDesignName>hr_erd.sql</ownerDesignName>
+<schemaObject>E41338AF-8AE6-B7DF-B835-87B53E05EA68</schemaObject>
+<segment>18A3AEA1-AE18-8D08-756E-21BC7ABD523B</segment>
+<tableSpace>FF16B99A-103D-6E93-51B3-ED59448823DE</tableSpace>
+</IndexProxy>
+</indexProxies>
+<foreignKeys>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.FKProxyOraclev10g" name="DEPT_MGR_FK" id="2583ADFF-27FD-F588-3DD5-D0470F57A6FE">
+<createdBy>user</createdBy>
+<createdTime>2024-07-24 02:25:41 UTC</createdTime>
+<ownerDesignName>hr_erd.sql</ownerDesignName>
+</ForeignKey>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.FKProxyOraclev10g" name="DEPT_LOC_FK" id="FC5BCAF3-BE71-A512-FA76-3314CEE99D7A">
+<createdBy>user</createdBy>
+<createdTime>2024-07-24 02:25:41 UTC</createdTime>
+<ownerDesignName>hr_erd.sql</ownerDesignName>
+</ForeignKey>
+</foreignKeys>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="DEPT_ID_PK" id="0E9999D8-76F3-28F3-1978-EBAABDED48C8">
+<createdBy>user</createdBy>
+<createdTime>2024-07-24 02:25:41 UTC</createdTime>
+<ownerDesignName>hr_erd.sql</ownerDesignName>
+<segment>18A3AEA1-AE18-8D08-756E-21BC7ABD523B</segment>
+<tableSpace>FF16B99A-103D-6E93-51B3-ED59448823DE</tableSpace>
+<existingIndex>BC696EC8-A696-42D5-13A1-B4FC3C7897B5</existingIndex>
+<indexSegment>18A3AEA1-AE18-8D08-756E-21BC7ABD523B</indexSegment>
+<indexSort>SORTED</indexSort>
+<usingIndex>BY INDEX NAME</usingIndex>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev11g>

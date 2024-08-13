@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c80ad01f-a7c2-4d0d-aa79-07550f05edf9" name="Changes" comment="first" />
+    <list default="true" id="c80ad01f-a7c2-4d0d-aa79-07550f05edf9" name="Changes" comment="first">
+      <change afterPath="$PROJECT_DIR$/05_AI/02_머신러닝/.ipynb_checkpoints/2_3_3_2_2진분류_실습_heart_자동화-checkpoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/02_머신러닝/.ipynb_checkpoints/2_4_1_다중분류-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/02_머신러닝/.ipynb_checkpoints/2_4_2_다중분류_실습_펭귄-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/02_머신러닝/.ipynb_checkpoints/3_1_1_K_최근접이웃_선형회귀모델-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/02_머신러닝/.ipynb_checkpoints/3_1_2_K_최근접이웃_과대적합_과소적합_일반화 (1)-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/02_머신러닝/.ipynb_checkpoints/3_1_2_K_최근접이웃_과대적합_과소적합_일반화-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/02_머신러닝/2_3_3_2_2진분류_실습_heart_자동화.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/02_머신러닝/2_3_3_2_2진분류_실습_heart_자동화2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/02_머신러닝/2_4_1_다중분류.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/02_머신러닝/2_4_2_다중분류_실습_펭귄.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/02_머신러닝/3_1_1_K_최근접이웃_선형회귀모델.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/02_머신러닝/3_1_2_K_최근접이웃_과대적합_과소적합_일반화 (1).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/02_머신러닝/3_1_2_K_최근접이웃_과대적합_과소적합_일반화.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_AI/02_머신러닝/1_2진_분류예측_K_최근접이웃알고리즘.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/05_AI/02_머신러닝/1_2진_분류예측_K_최근접이웃알고리즘.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,194 +57,199 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2id9oNhsKQZuGrkjMIFepSnEbiZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.00_before_function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_basic.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_basic_trace1 (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Python.01_basic_trace1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_basic_trace2_debug (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_if_basic.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_OpenAPI_수집데이터_DB적재.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.02_error_result.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_function_px_ro.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_function_px_rx.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_function_px_rx1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_function_px_rx2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_if_structure.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_OpenAPI_수집_스케줄러.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_except_errer_name.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_function_po_rx.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_function_px_ro.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_if_condition.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_multi_argument.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_compairson.operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_multi_arg_cal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_시뮬레이터.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_1_실시간분석.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_2_실시간분석_파이_막대차트.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_datetime.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_in.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_return_for_exit_function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06_default_parameter (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.06_default_parameter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06_dict2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06_pass.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06_sleep.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07_2_nested_if.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07_dict_funtion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07_elif.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07_external_library.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07_variable_scope.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07_variable_scope2.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.08_input.executor&quot;: &quot;Run&quot;,
-    &quot;Python.08_set.executor&quot;: &quot;Run&quot;,
-    &quot;Python.09_access_upper_scope_variable.executor&quot;: &quot;Run&quot;,
-    &quot;Python.09_while_example.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.10_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.10_access_upper_scope_variable.executor&quot;: &quot;Run&quot;,
-    &quot;Python.10_whille_menu.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11_file_creat.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11_whille_menu.executor&quot;: &quot;Run&quot;,
-    &quot;Python.12_coffee_machine.executor&quot;: &quot;Run&quot;,
-    &quot;Python.12_file_creat_content.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13_continue.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.14_infinite_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_write_a_mode.executor&quot;: &quot;Run&quot;,
-    &quot;Python.15_for_basic.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.15_readline_all_text.executor&quot;: &quot;Run&quot;,
-    &quot;Python.15_readline_all_text2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.16_menu_exit_condition.executor&quot;: &quot;Run&quot;,
-    &quot;Python.16_score_management.executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_readlines.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.17_sum_example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.18_2_step1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.18_2_step3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.18_2_step4.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.18_menu_edit_condition.executor&quot;: &quot;Run&quot;,
-    &quot;Python.18_read (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.19_file_read.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.19_list_comprehension.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1_2_호출자동화_검증.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1_3_1_데이터파싱_검증.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1_3_2_실데이터_파싱.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1_4_데이터_프레임전환.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1_5_시계열분석_데이터생성_테스트.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1_6_시계열분석_시각화_테스트.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1_7_최종_완성.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1_7_최종_완성_연습.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1_8_최종_완성_XML.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1_no_thread.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.20_sys.executor&quot;: &quot;Run&quot;,
-    &quot;Python.21_2dim_data.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.22_sys_add.executor&quot;: &quot;Run&quot;,
-    &quot;Python.23_sys_add.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2_2_호출자동화_검증 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.2_2_호출자동화_검증.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2_3_1_데이터파싱_검증.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2_3_2_실데이터_파싱.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2_3_3_1_현재시간정보생성_테스트.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2_3_3_2_파라메터값_자동생성.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2_4_데이터_프레임전환.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2_5_최종전처리.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2_basic_thread.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_2_호출자동화_검증.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_3_1_데이터파싱_검증.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_3_2_실데이터_파싱.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_4_데이터_프레임전환.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_5_시계열분석_데이터생성_테스트.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_6_데이터_병합_강명훈.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_thread_termination1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_thread_termination2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4_스케줄러_템플릿.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4_전기자동차_충전소_정보.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5_2_호출자동화_검증.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5_3_1_데이터파싱_검증.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5_3_3_2_파라메터값_자동생성.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5_4_데이터_프레임전환.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5_5_시계열분석_데이터생성_테스트.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5_6_chatgpt.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5_6_한국전력거래소_발전원별_발전량_OpenAPI_수집_스케줄러 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.5_data_featuring_자동화1_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5_data_featuring_자동화2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5_data_featuring_자동화3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5_data_featuring_자동화4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5_data_featuring_자동화5_dia.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Python Console.executor&quot;: &quot;Run&quot;,
-    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
-    &quot;Python.controller.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data_featuring_자동화.executor&quot;: &quot;Run&quot;,
-    &quot;Python.df_read_test.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.game_controller.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mod1.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.nhj_exercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.q1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.q10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.q2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.q3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.q4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.q5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.q6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.q7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.q8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.q9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rhombus_v1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rhombus_v2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rhombus_v3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s2_0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s2_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s2_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s2_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s2_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s2_5 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.s2_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s3_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s3_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s3_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s4_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s4_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s5_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s6_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s7_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s9_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.solution2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.solution3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.solution8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.solution9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.국가별 수산물 수출입 순위_이창하.executor&quot;: &quot;Run&quot;,
-    &quot;Python.성원석_json.executor&quot;: &quot;Run&quot;,
-    &quot;Python.한국전력거래소_발전원별_발전량_OpenAPI_수집_스케줄러.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/hjnam/project/DataScience_back&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.00_before_function.executor": "Run",
+    "Python.01_basic.executor": "Run",
+    "Python.01_basic_trace1 (1).executor": "Debug",
+    "Python.01_basic_trace1.executor": "Run",
+    "Python.01_basic_trace2_debug (1).executor": "Run",
+    "Python.01_if_basic.executor": "Run",
+    "Python.02_OpenAPI_수집데이터_DB적재.executor": "Debug",
+    "Python.02_error_result.executor": "Run",
+    "Python.02_function_px_ro.executor": "Run",
+    "Python.02_function_px_rx.executor": "Run",
+    "Python.02_function_px_rx1.executor": "Run",
+    "Python.02_function_px_rx2.executor": "Run",
+    "Python.02_if_structure.executor": "Run",
+    "Python.03_OpenAPI_수집_스케줄러.executor": "Run",
+    "Python.03_except_errer_name.executor": "Run",
+    "Python.03_function_po_rx.executor": "Run",
+    "Python.03_function_px_ro.executor": "Run",
+    "Python.03_if_condition.executor": "Run",
+    "Python.03_multi_argument.executor": "Run",
+    "Python.04_compairson.operators.executor": "Run",
+    "Python.04_multi_arg_cal.executor": "Run",
+    "Python.04_시뮬레이터.executor": "Run",
+    "Python.05_1_실시간분석.executor": "Run",
+    "Python.05_2_실시간분석_파이_막대차트.executor": "Run",
+    "Python.05_datetime.executor": "Run",
+    "Python.05_in.executor": "Run",
+    "Python.05_return_for_exit_function.executor": "Run",
+    "Python.06_default_parameter (1).executor": "Run",
+    "Python.06_default_parameter.executor": "Run",
+    "Python.06_dict2.executor": "Run",
+    "Python.06_pass.executor": "Run",
+    "Python.06_sleep.executor": "Run",
+    "Python.07_2_nested_if.executor": "Run",
+    "Python.07_dict_funtion.executor": "Run",
+    "Python.07_elif.executor": "Run",
+    "Python.07_external_library.executor": "Run",
+    "Python.07_variable_scope.executor": "Run",
+    "Python.07_variable_scope2.executor": "Debug",
+    "Python.08_input.executor": "Run",
+    "Python.08_set.executor": "Run",
+    "Python.09_access_upper_scope_variable.executor": "Run",
+    "Python.09_while_example.executor": "Debug",
+    "Python.10_2.executor": "Run",
+    "Python.10_access_upper_scope_variable.executor": "Run",
+    "Python.10_whille_menu.executor": "Run",
+    "Python.11_file_creat.executor": "Run",
+    "Python.11_whille_menu.executor": "Run",
+    "Python.12_coffee_machine.executor": "Run",
+    "Python.12_file_creat_content.executor": "Run",
+    "Python.13_continue.executor": "Debug",
+    "Python.14_infinite_loop.executor": "Run",
+    "Python.14_write_a_mode.executor": "Run",
+    "Python.15_for_basic.executor": "Debug",
+    "Python.15_readline_all_text.executor": "Run",
+    "Python.15_readline_all_text2.executor": "Run",
+    "Python.16_menu_exit_condition.executor": "Run",
+    "Python.16_score_management.executor": "Run",
+    "Python.17_readlines.executor": "Debug",
+    "Python.17_sum_example.executor": "Run",
+    "Python.18_2_step1.executor": "Run",
+    "Python.18_2_step3.executor": "Run",
+    "Python.18_2_step4.executor": "Debug",
+    "Python.18_menu_edit_condition.executor": "Run",
+    "Python.18_read (1).executor": "Run",
+    "Python.19_file_read.executor": "Debug",
+    "Python.19_list_comprehension.executor": "Run",
+    "Python.1_2_호출자동화_검증.executor": "Run",
+    "Python.1_3_1_데이터파싱_검증.executor": "Run",
+    "Python.1_3_2_실데이터_파싱.executor": "Run",
+    "Python.1_4_데이터_프레임전환.executor": "Run",
+    "Python.1_5_시계열분석_데이터생성_테스트.executor": "Run",
+    "Python.1_6_시계열분석_시각화_테스트.executor": "Run",
+    "Python.1_7_최종_완성.executor": "Run",
+    "Python.1_7_최종_완성_연습.executor": "Run",
+    "Python.1_8_최종_완성_XML.executor": "Run",
+    "Python.1_no_thread.executor": "Run",
+    "Python.2.executor": "Run",
+    "Python.20_sys.executor": "Run",
+    "Python.21_2dim_data.executor": "Debug",
+    "Python.22_sys_add.executor": "Run",
+    "Python.23_sys_add.executor": "Run",
+    "Python.2_2_호출자동화_검증 (1).executor": "Run",
+    "Python.2_2_호출자동화_검증.executor": "Run",
+    "Python.2_3_1_데이터파싱_검증.executor": "Run",
+    "Python.2_3_2_실데이터_파싱.executor": "Run",
+    "Python.2_3_3_1_현재시간정보생성_테스트.executor": "Run",
+    "Python.2_3_3_2_2진분류_실습_heart_자동화.executor": "Run",
+    "Python.2_3_3_2_2진분류_실습_heart_자동화2.executor": "Run",
+    "Python.2_3_3_2_파라메터값_자동생성.executor": "Run",
+    "Python.2_4_데이터_프레임전환.executor": "Run",
+    "Python.2_5_최종전처리.executor": "Run",
+    "Python.2_basic_thread.executor": "Run",
+    "Python.3.executor": "Run",
+    "Python.3_2_호출자동화_검증.executor": "Run",
+    "Python.3_3_1_데이터파싱_검증.executor": "Run",
+    "Python.3_3_2_실데이터_파싱.executor": "Run",
+    "Python.3_4_데이터_프레임전환.executor": "Run",
+    "Python.3_5_시계열분석_데이터생성_테스트.executor": "Run",
+    "Python.3_6_데이터_병합_강명훈.executor": "Run",
+    "Python.3_thread_termination1.executor": "Run",
+    "Python.3_thread_termination2.executor": "Run",
+    "Python.4.executor": "Run",
+    "Python.4_1.executor": "Run",
+    "Python.4_스케줄러_템플릿.executor": "Run",
+    "Python.4_전기자동차_충전소_정보.executor": "Run",
+    "Python.5.executor": "Run",
+    "Python.5_2_호출자동화_검증.executor": "Run",
+    "Python.5_3_1_데이터파싱_검증.executor": "Run",
+    "Python.5_3_3_2_파라메터값_자동생성.executor": "Run",
+    "Python.5_4_데이터_프레임전환.executor": "Run",
+    "Python.5_5_시계열분석_데이터생성_테스트.executor": "Run",
+    "Python.5_6_chatgpt.executor": "Run",
+    "Python.5_6_한국전력거래소_발전원별_발전량_OpenAPI_수집_스케줄러 (1).executor": "Run",
+    "Python.5_data_featuring_자동화1_1.executor": "Run",
+    "Python.5_data_featuring_자동화2.executor": "Run",
+    "Python.5_data_featuring_자동화3.executor": "Run",
+    "Python.5_data_featuring_자동화4.executor": "Run",
+    "Python.5_data_featuring_자동화5_dia.executor": "Run",
+    "Python.6.executor": "Run",
+    "Python.Python Console.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.controller.executor": "Run",
+    "Python.data_featuring_자동화.executor": "Run",
+    "Python.df_read_test.executor": "Debug",
+    "Python.game_controller.executor": "Run",
+    "Python.list_test.executor": "Run",
+    "Python.mod1.executor": "Debug",
+    "Python.nhj_exercise.executor": "Run",
+    "Python.q1.executor": "Run",
+    "Python.q10.executor": "Run",
+    "Python.q2.executor": "Run",
+    "Python.q3.executor": "Run",
+    "Python.q4.executor": "Run",
+    "Python.q5.executor": "Run",
+    "Python.q6.executor": "Run",
+    "Python.q7.executor": "Run",
+    "Python.q8.executor": "Run",
+    "Python.q9.executor": "Run",
+    "Python.rhombus_v1.executor": "Run",
+    "Python.rhombus_v2.executor": "Run",
+    "Python.rhombus_v3.executor": "Run",
+    "Python.s1.executor": "Run",
+    "Python.s10.executor": "Run",
+    "Python.s2.executor": "Run",
+    "Python.s2_0.executor": "Run",
+    "Python.s2_1.executor": "Run",
+    "Python.s2_2.executor": "Run",
+    "Python.s2_3.executor": "Run",
+    "Python.s2_4.executor": "Run",
+    "Python.s2_5 (1).executor": "Run",
+    "Python.s2_6.executor": "Run",
+    "Python.s3.executor": "Run",
+    "Python.s3_1.executor": "Run",
+    "Python.s3_2.executor": "Run",
+    "Python.s3_4.executor": "Run",
+    "Python.s4.executor": "Run",
+    "Python.s4_1.executor": "Run",
+    "Python.s4_2.executor": "Run",
+    "Python.s5.executor": "Run",
+    "Python.s5_2.executor": "Run",
+    "Python.s6.executor": "Run",
+    "Python.s6_2.executor": "Run",
+    "Python.s7.executor": "Run",
+    "Python.s7_2.executor": "Run",
+    "Python.s8.executor": "Run",
+    "Python.s9.executor": "Run",
+    "Python.s9_2.executor": "Run",
+    "Python.solution2.executor": "Run",
+    "Python.solution3.executor": "Run",
+    "Python.solution8.executor": "Run",
+    "Python.solution9.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.국가별 수산물 수출입 순위_이창하.executor": "Run",
+    "Python.성원석_json.executor": "Run",
+    "Python.한국전력거래소_발전원별_발전량_OpenAPI_수집_스케줄러.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/hjnam/project/DataScience",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\hjnam\project\DataScience\04_ETL\02_Data_Collection\01_OpenAPI\03_OpenAPI_Practice" />
@@ -250,9 +271,9 @@
       <command value="adfs" />
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="5_data_featuring_자동화3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="data_science" />
+  <component name="RunManager" selected="Python.2_3_3_2_2진분류_실습_heart_자동화2">
+    <configuration name="2_3_3_2_2진분류_실습_heart_자동화" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataScience" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,11 +281,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_AI/01_통계기반예측모델/1_Linear_Regression_Analysis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_AI/02_머신러닝" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_AI/01_통계기반예측모델/1_Linear_Regression_Analysis/5_data_featuring_자동화3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_AI/02_머신러닝/2_3_3_2_2진분류_실습_heart_자동화.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2_3_3_2_2진분류_실습_heart_자동화2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataScience" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_AI/02_머신러닝" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_AI/02_머신러닝/2_3_3_2_2진분류_실습_heart_자동화2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -339,6 +382,12 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.2_3_3_2_2진분류_실습_heart_자동화2" />
+        <item itemvalue="Python.2_3_3_2_2진분류_실습_heart_자동화" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -436,11 +485,31 @@
       <option name="project" value="LOCAL" />
       <updated>1723453586021</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="first">
+      <option name="closed" value="true" />
+      <created>1723453927961</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1723453927961</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first" />
     <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/05_AI/02_머신러닝/2_3_3_2_2진분류_실습_heart_자동화.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

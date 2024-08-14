@@ -11,8 +11,6 @@ start = datetime.fromtimestamp(time.time())
 print("결과 예측하기")
 house = pd.read_csv('Housing.csv',sep=',',header=0)
 house.columns = house.columns.str.replace(' ','_')
-house.replace('yes',1,inplace=True)
-house.replace('no',0,inplace=True)
 house = house.drop(house.columns[[0]],axis=1)
 
 match_dic={}

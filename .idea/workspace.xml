@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c80ad01f-a7c2-4d0d-aa79-07550f05edf9" name="Changes" comment="0813">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c80ad01f-a7c2-4d0d-aa79-07550f05edf9" name="Changes" comment="0814" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -485,14 +483,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723520000251</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="0814">
+      <option name="closed" value="true" />
+      <created>1723618348144</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1723618348144</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first" />
     <MESSAGE value="0813" />
-    <option name="LAST_COMMIT_MESSAGE" value="0813" />
+    <MESSAGE value="0814" />
+    <option name="LAST_COMMIT_MESSAGE" value="0814" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

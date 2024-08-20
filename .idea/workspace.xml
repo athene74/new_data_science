@@ -4,7 +4,164 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c80ad01f-a7c2-4d0d-aa79-07550f05edf9" name="Changes" comment="0814" />
+    <list default="true" id="c80ad01f-a7c2-4d0d-aa79-07550f05edf9" name="Changes" comment="0819">
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/.ipynb_checkpoints/01_간단한_인공신경망-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/.ipynb_checkpoints/02_심층신경망-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/.ipynb_checkpoints/03_신경망훈련_심화-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/.ipynb_checkpoints/04_1_합성곱_CNN-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/.ipynb_checkpoints/05_1_데이터증폭_자가검증-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/.ipynb_checkpoints/05_2_데이터증폭_테스트셋_적용-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/.ipynb_checkpoints/05_3_데이터증폭_이미지변형-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/.ipynb_checkpoints/05_4_데이터증폭_조기종료-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/.ipynb_checkpoints/06_1_문제유형별_레시피_선형회귀-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/.ipynb_checkpoints/06_2_문제유형별_레시피_2진분류-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/.ipynb_checkpoints/06_3_문제유형별_레시피_다중분류-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/.ipynb_checkpoints/10_1_연습문제_정의-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/.ipynb_checkpoints/10_2_연습문제_풀이_1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/01_간단한_인공신경망.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/02_심층신경망.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/03_신경망훈련_심화.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/04_1_합성곱_CNN.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/05_1_데이터증폭_자가검증.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/05_2_데이터증폭_테스트셋_적용.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/05_3_데이터증폭_이미지변형.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/05_4_데이터증폭_조기종료.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/06_1_문제유형별_레시피_선형회귀.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/06_2_문제유형별_레시피_2진분류.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/06_3_문제유형별_레시피_다중분류.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/10_1_연습문제_정의.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/10_2_연습문제_풀이_1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/10_2_연습문제_풀이_2.ipynb.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/best-binary.keras" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/best-model.keras" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/best-multi2.keras" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/test/circle/circle016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/test/circle/circle017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/test/circle/circle018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/test/circle/circle019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/test/circle/circle020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/test/rectangle/rectangle016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/test/rectangle/rectangle017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/test/rectangle/rectangle018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/test/rectangle/rectangle019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/test/rectangle/rectangle020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/test/triangle/triangle016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/test/triangle/triangle017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/test/triangle/triangle018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/test/triangle/triangle019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/test/triangle/triangle020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/circle/circle001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/circle/circle002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/circle/circle003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/circle/circle004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/circle/circle005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/circle/circle006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/circle/circle007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/circle/circle008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/circle/circle009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/circle/circle010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/circle/circle011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/circle/circle012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/circle/circle013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/circle/circle014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/circle/circle015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/rectangle/rectangle001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/rectangle/rectangle002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/rectangle/rectangle003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/rectangle/rectangle004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/rectangle/rectangle005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/rectangle/rectangle006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/rectangle/rectangle007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/rectangle/rectangle008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/rectangle/rectangle009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/rectangle/rectangle010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/rectangle/rectangle011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/rectangle/rectangle012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/rectangle/rectangle013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/rectangle/rectangle014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/rectangle/rectangle015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/triangle/triangle001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/triangle/triangle002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/triangle/triangle003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/triangle/triangle004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/triangle/triangle005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/triangle/triangle006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/triangle/triangle007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/triangle/triangle008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/triangle/triangle009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/triangle/triangle010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/triangle/triangle011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/triangle/triangle012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/triangle/triangle013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/triangle/triangle014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/handwriting_shape/train/triangle/triangle015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/test/circle/circle021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/test/circle/circle022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/test/circle/circle023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/test/circle/circle024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/test/circle/circle025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/test/rectangle/rectangle021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/test/rectangle/rectangle022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/test/rectangle/rectangle023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/test/rectangle/rectangle024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/test/rectangle/rectangle025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/test/triangle/triangle021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/test/triangle/triangle022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/test/triangle/triangle023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/test/triangle/triangle024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/test/triangle/triangle025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/circle/circle001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/circle/circle002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/circle/circle003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/circle/circle004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/circle/circle005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/circle/circle006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/circle/circle007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/circle/circle008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/circle/circle009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/circle/circle010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/circle/circle011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/circle/circle012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/circle/circle013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/circle/circle014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/circle/circle015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/rectangle/rectangle001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/rectangle/rectangle002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/rectangle/rectangle003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/rectangle/rectangle004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/rectangle/rectangle005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/rectangle/rectangle006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/rectangle/rectangle007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/rectangle/rectangle008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/rectangle/rectangle009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/rectangle/rectangle010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/rectangle/rectangle011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/rectangle/rectangle012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/rectangle/rectangle013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/rectangle/rectangle014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/rectangle/rectangle015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/triangle/triangle001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/triangle/triangle002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/triangle/triangle003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/triangle/triangle004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/triangle/triangle005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/triangle/triangle006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/triangle/triangle007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/triangle/triangle008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/triangle/triangle009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/triangle/triangle010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/triangle/triangle011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/triangle/triangle012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/triangle/triangle013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/triangle/triangle014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/hard_handwriting_shape/train/triangle/triangle015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/model-weights.weights.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/model-whole.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/03_딥러닝/model-whole.keras" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/.ipynb_checkpoints/1_1_데이터확인_환경설정-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/1_1_데이터확인_환경설정.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -491,7 +648,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723618348144</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="0819">
+      <option name="closed" value="true" />
+      <created>1724035688054</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1724035688054</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -499,7 +664,8 @@
     <MESSAGE value="first" />
     <MESSAGE value="0813" />
     <MESSAGE value="0814" />
-    <option name="LAST_COMMIT_MESSAGE" value="0814" />
+    <MESSAGE value="0819" />
+    <option name="LAST_COMMIT_MESSAGE" value="0819" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

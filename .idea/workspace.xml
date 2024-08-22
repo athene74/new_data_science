@@ -5,138 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c80ad01f-a7c2-4d0d-aa79-07550f05edf9" name="Changes" comment="0820">
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/.ipynb_checkpoints/1_1_데이터확인_환경설정_아파트-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/.ipynb_checkpoints/1_1_데이터확인_환경설정_아파트-feedback-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/.ipynb_checkpoints/1_2_기본예제-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/.ipynb_checkpoints/1_2_기본예제_아파트가격-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/.ipynb_checkpoints/1_기본테스트-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/.ipynb_checkpoints/2_Trends-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/.ipynb_checkpoints/3_Seasonality-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/.ipynb_checkpoints/4_Auto_Regression-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/.ipynb_checkpoints/5_1_다변량예측(Multivariate_Prediction)_Feature추가-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/.ipynb_checkpoints/5_2_다변량예측_분석-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/.ipynb_checkpoints/6_훈련데이터_테스트데이터-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/.ipynb_checkpoints/7_미래데이터_예측-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/1_1_데이터확인_환경설정_아파트-feedback.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/1_1_데이터확인_환경설정_아파트.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/1_2_기본예제.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/1_2_기본예제_아파트가격.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/1_기본테스트.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/20240630.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/20240630_DFdata.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/2_Trends.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/3_Seasonality.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/4_Auto_Regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/5_1_다변량예측(Multivariate_Prediction)_Feature추가.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/5_2_다변량예측_분석.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/6_훈련데이터_테스트데이터.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/7_미래데이터_예측.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_0/events.out.tfevents.1724043059.PC-10.12788.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_0/events.out.tfevents.1724043061.PC-10.12788.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_0/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_1/events.out.tfevents.1724043763.PC-10.9556.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_1/events.out.tfevents.1724043764.PC-10.9556.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_1/events.out.tfevents.1724043788.PC-10.9556.2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_1/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_10/events.out.tfevents.1724047690.PC-10.17148.6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_10/events.out.tfevents.1724047691.PC-10.17148.7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_10/events.out.tfevents.1724047716.PC-10.17148.8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_10/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_11/events.out.tfevents.1724047718.PC-10.17148.9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_11/events.out.tfevents.1724047719.PC-10.17148.10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_11/events.out.tfevents.1724047770.PC-10.17148.13" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_11/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_12/events.out.tfevents.1724047743.PC-10.17148.11" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_12/events.out.tfevents.1724047744.PC-10.17148.12" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_12/events.out.tfevents.1724047770.PC-10.17148.14" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_12/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_13/events.out.tfevents.1724048013.PC-10.11592.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_13/events.out.tfevents.1724048014.PC-10.11592.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_13/events.out.tfevents.1724048038.PC-10.11592.2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_13/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_14/events.out.tfevents.1724048039.PC-10.11592.3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_14/events.out.tfevents.1724048041.PC-10.11592.4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_14/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_15/events.out.tfevents.1724048066.PC-10.11592.5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_15/events.out.tfevents.1724048067.PC-10.11592.6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_15/events.out.tfevents.1724048091.PC-10.11592.7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_15/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_16/events.out.tfevents.1724048131.PC-10.16224.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_16/events.out.tfevents.1724048133.PC-10.16224.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_16/events.out.tfevents.1724048156.PC-10.16224.2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_16/events.out.tfevents.1724048157.PC-10.16224.3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_16/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_17/events.out.tfevents.1724048158.PC-10.16224.4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_17/events.out.tfevents.1724048159.PC-10.16224.5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_17/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_18/events.out.tfevents.1724048185.PC-10.16224.6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_18/events.out.tfevents.1724048186.PC-10.16224.7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_18/events.out.tfevents.1724048210.PC-10.16224.8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_18/events.out.tfevents.1724048210.PC-10.16224.9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_18/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_19/events.out.tfevents.1724056654.PC-10.2940.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_19/events.out.tfevents.1724056655.PC-10.2940.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_19/events.out.tfevents.1724056669.PC-10.2940.2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_19/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_2/events.out.tfevents.1724044208.PC-10.12852.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_2/events.out.tfevents.1724044209.PC-10.12852.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_2/events.out.tfevents.1724044229.PC-10.12852.2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_2/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_20/events.out.tfevents.1724056741.PC-10.2940.3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_20/events.out.tfevents.1724056742.PC-10.2940.4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_20/events.out.tfevents.1724056786.PC-10.2940.5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_20/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_3/events.out.tfevents.1724044230.PC-10.12852.3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_3/events.out.tfevents.1724044231.PC-10.12852.4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_3/events.out.tfevents.1724044253.PC-10.12852.5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_3/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_4/events.out.tfevents.1724044867.PC-10.12312.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_4/events.out.tfevents.1724044868.PC-10.12312.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_4/events.out.tfevents.1724044890.PC-10.12312.2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_4/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_5/events.out.tfevents.1724044891.PC-10.12312.3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_5/events.out.tfevents.1724044892.PC-10.12312.4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_5/events.out.tfevents.1724044915.PC-10.12312.5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_5/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_6/events.out.tfevents.1724045340.PC-10.1668.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_6/events.out.tfevents.1724045342.PC-10.1668.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_6/events.out.tfevents.1724045367.PC-10.1668.2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_6/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_7/events.out.tfevents.1724045367.PC-10.1668.3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_7/events.out.tfevents.1724045369.PC-10.1668.4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_7/events.out.tfevents.1724045396.PC-10.1668.5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_7/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_8/events.out.tfevents.1724047633.PC-10.17148.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_8/events.out.tfevents.1724047635.PC-10.17148.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_8/events.out.tfevents.1724047662.PC-10.17148.2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_8/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_9/events.out.tfevents.1724047664.PC-10.17148.3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_9/events.out.tfevents.1724047665.PC-10.17148.4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_9/events.out.tfevents.1724047690.PC-10.17148.5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/lightning_logs/version_9/hparams.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/tutorial01.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/04_Time_Series_Analysis/한국부동산원_전국주택가격동향조사_월별동향_아파트_매매가격(평균매매가격)_20240630.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/0. 자연어처리_주요절차-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/1_1_TF-IDF_스팸분석_전처리-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/1_2_1_TF-IDF_스팸메일예측-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/1_2_2_TF-IDF_스팸메일예측_lightGBM-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/1_3 텍스트 분류 실습 _ 20 뉴스그룹 분류-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/1_4_파이프라인_및_하이퍼파라메터튜닝-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/2_1_1_지도학습_감성분석-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/2_2_1_비지도학습_감성분석-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/0. 자연어처리_주요절차.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/1_1_TF-IDF_스팸분석_전처리.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/1_2_1_TF-IDF_스팸메일예측.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/1_2_2_TF-IDF_스팸메일예측_lightGBM.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/1_3 텍스트 분류 실습 _ 20 뉴스그룹 분류.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/1_4_파이프라인_및_하이퍼파라메터튜닝.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/2_1_1_지도학습_감성분석.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/2_2_1_비지도학습_감성분석.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/SMSSpamCollection" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/amazon.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/data/labeledTrainData.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/processed.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -640,7 +509,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724118769657</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="0820">
+      <option name="closed" value="true" />
+      <created>1724125452693</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1724125452693</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

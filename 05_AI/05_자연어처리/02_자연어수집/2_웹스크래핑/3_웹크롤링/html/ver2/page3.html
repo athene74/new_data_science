@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book List - Page 1</title>
+    <link rel="stylesheet" href="css/style1.css">
+</head>
+<body>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const books = [
+        { title: 'Book 1', price: '$30' },
+        { title: 'Book 2', price: '$35' }
+    ];
+    const container = document.createElement('ul');
+    books.forEach(book => {
+        const listItem = document.createElement('li');
+        listItem.textContent = `${book.title} - ${book.price}`;
+        container.appendChild(listItem);
+    });
+    document.body.appendChild(container);
+});
+</script>
+</body>
+</html>

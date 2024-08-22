@@ -4,8 +4,174 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c80ad01f-a7c2-4d0d-aa79-07550f05edf9" name="Changes" comment="0820">
-      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/amazon.csv" afterDir="false" />
+    <list default="true" id="c80ad01f-a7c2-4d0d-aa79-07550f05edf9" name="Changes" comment="0822">
+      <change afterPath="$PROJECT_DIR$/01_python_basic/ch01/.ipynb_checkpoints/01_hello_world-checkpoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_python_basic/ch01/.ipynb_checkpoints/02_variable_test-checkpoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/02_머신러닝/.ipynb_checkpoints/6_비지도학습-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/02_머신러닝/.ipynb_checkpoints/7_비지도학습_실전_예제-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/02_머신러닝/6_비지도학습.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/02_머신러닝/7_비지도학습_실전_예제.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/02_머신러닝/niaaa-report2009.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/02_머신러닝/소비유형별_개인_신용카드.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/2_2_2_비지도학습_감성분석_연습_Amazon-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/2_3_1_지도학습_감성분석_한글처리_네이버 영화 평점-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/2_3_2_지도학습_감성분석_한글처리_네이버 영화 평점_Okt-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/2_3_3_지도학습_감성분석_한글처리_네이버 영화 평점_Okt_lightGBM-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/2_3_4_지도학습_감성분석_한글처리_네이버 영화 평점_Okt_가설검증-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/2_3_5_지도학습_감성분석_한글처리_네이버 영화 평점_Okt_가설검증-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/2_4_1_비지도학습_한글감성분석_개발-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/2_4_2_비지도학습_한글감성분석_사전확장-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/2_4_3_비지도학습_한글감성분석_확장_도메인특화1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/2_4_3_비지도학습_한글감성분석_확장_도메인특화2-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/3_1_키워드분석_사전작업-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/3_2_1_연관검색-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/3_2_2_연관검색_실습-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/3_2_2_연관검색_실습2-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/3_3_키워드분석_시각화1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/3_4_키워드분석_시각화2_이미지적용-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/4_텍스트_군집화-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/.ipynb_checkpoints/윤석열__국회시정연설문-checkpoint.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/01_regular_expression/.ipynb_checkpoints/01_정규식인트로-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/01_regular_expression/.ipynb_checkpoints/01_정답-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/01_regular_expression/.ipynb_checkpoints/02_문자클래스-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/01_regular_expression/.ipynb_checkpoints/03_Dot_반복-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/01_regular_expression/.ipynb_checkpoints/04_정규식함수-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/01_regular_expression/.ipynb_checkpoints/05_컴파일옵션-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/01_regular_expression/.ipynb_checkpoints/06_메타문자-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/01_regular_expression/.ipynb_checkpoints/2_3_1_지도학습_감성분석_한글처리_네이버 영화 평점-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/01_regular_expression/.ipynb_checkpoints/7_Group_문자열바꾸기-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/01_regular_expression/.ipynb_checkpoints/8_NonGreedy-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/01_regular_expression/.ipynb_checkpoints/연습문제 _정답-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/01_regular_expression/.ipynb_checkpoints/연습문제-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/01_regular_expression/.ipynb_checkpoints/연습문제-실습-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/01_regular_expression/01_정규식인트로.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/01_regular_expression/01_정답.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/01_regular_expression/02_문자클래스.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/01_regular_expression/03_Dot_반복.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/01_regular_expression/04_정규식함수.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/01_regular_expression/05_컴파일옵션.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/01_regular_expression/06_메타문자.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/01_regular_expression/7_Group_문자열바꾸기.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/01_regular_expression/8_NonGreedy.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/01_regular_expression/연습문제 _정답.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/01_regular_expression/연습문제-실습.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/01_regular_expression/연습문제.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/2_2_2_비지도학습_감성분석_연습_Amazon.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/2_3_1_지도학습_감성분석_한글처리_네이버 영화 평점.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/2_3_2_지도학습_감성분석_한글처리_네이버 영화 평점_Okt.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/2_3_3_지도학습_감성분석_한글처리_네이버 영화 평점_Okt_lightGBM.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/2_3_4_지도학습_감성분석_한글처리_네이버 영화 평점_Okt_가설검증.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/2_3_5_지도학습_감성분석_한글처리_네이버 영화 평점_Okt_가설검증.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/2_4_1_비지도학습_한글감성분석_개발.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/2_4_2_비지도학습_한글감성분석_사전확장.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/2_4_3_비지도학습_한글감성분석_확장_도메인특화1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/2_4_3_비지도학습_한글감성분석_확장_도메인특화2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/3_1_키워드분석_사전작업.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/3_2_1_연관검색.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/3_2_2_연관검색_실습.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/3_2_2_연관검색_실습2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/3_3_키워드분석_시각화1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/3_4_키워드분석_시각화2_이미지적용.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/4_텍스트_군집화.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/6_비지도학습.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/NanumBarunGothic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/Yoon.model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/moon.model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/moon.wakati" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/niaaa-report2009.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/park.model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/park.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/park2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/park3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/ratings_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/ratings_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/wordcloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/yoon.wakati" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/군집분석데이터.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/문재인_국정연설문_2017.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/문재인대통령.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/문재인대통령취임연설문.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/박근혜_국정연설문_2016.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/박근혜_취임연설문.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/윤석열__국회시정연설문.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/트럼프취임연설문.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/1_자연어수집_OpenAPI/.ipynb_checkpoints/1_환경구축-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/1_자연어수집_OpenAPI/.ipynb_checkpoints/2_1_블로그검색_배포용-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/1_자연어수집_OpenAPI/.ipynb_checkpoints/2_2_블로그검색_실행용-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/1_자연어수집_OpenAPI/.ipynb_checkpoints/2_4_뉴스검색_실행용-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/1_자연어수집_OpenAPI/1_환경구축.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/1_자연어수집_OpenAPI/2_1_블로그검색_배포용.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/1_자연어수집_OpenAPI/2_2_블로그검색_실행용.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/1_자연어수집_OpenAPI/2_3_뉴스검색_배포용.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/1_자연어수집_OpenAPI/2_4_뉴스검색_실행용.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/1_BeautifulSoup/.ipynb_checkpoints/1_basic-checkpoint.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/1_BeautifulSoup/.ipynb_checkpoints/1_웹스크래핑_개요-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/1_BeautifulSoup/.ipynb_checkpoints/2_BeautifulSoup_객체생성_태그접근-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/1_BeautifulSoup/.ipynb_checkpoints/2_상품랭킹-checkpoint.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/1_BeautifulSoup/.ipynb_checkpoints/3_태그검색-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/1_BeautifulSoup/.ipynb_checkpoints/4_스크래핑결과_데이터프레임변환_연습-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/1_BeautifulSoup/.ipynb_checkpoints/5_실전_네이버_프로야구순위_스크래핑-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/1_BeautifulSoup/.ipynb_checkpoints/ChatGPT_자동생성-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/1_BeautifulSoup/1_basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/1_BeautifulSoup/1_웹스크래핑_개요.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/1_BeautifulSoup/2_BeautifulSoup_객체생성_태그접근.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/1_BeautifulSoup/2_상품랭킹.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/1_BeautifulSoup/3_태그검색.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/1_BeautifulSoup/4_스크래핑결과_데이터프레임변환_연습.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/1_BeautifulSoup/5_실전_네이버_프로야구순위_스크래핑.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/1_BeautifulSoup/ChatGPT_자동생성.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/1_BeautifulSoup/p_style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/1_BeautifulSoup/프로야구순위_24-08-22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/2_Selenium_기초/.ipynb_checkpoints/1_Selenium_테스트-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/2_Selenium_기초/.ipynb_checkpoints/2_다음_국내증시-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/2_Selenium_기초/.ipynb_checkpoints/3_네이버증시_저장-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/2_Selenium_기초/.ipynb_checkpoints/4_네이버증시_스크래핑-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/2_Selenium_기초/1_Selenium_테스트.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/2_Selenium_기초/2_다음_국내증시.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/2_Selenium_기초/3_네이버증시_저장.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/2_Selenium_기초/4_네이버증시_스크래핑.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/2_Selenium_기초/네이버증시_24-08-22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/2_Selenium_기초/다음국내증시_24-08-22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/3_웹크롤링/.ipynb_checkpoints/웹크롤링_예제1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/3_웹크롤링/.ipynb_checkpoints/웹크롤링_예제2-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/3_웹크롤링/css/style1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/3_웹크롤링/html/ver1/page1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/3_웹크롤링/html/ver1/page2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/3_웹크롤링/html/ver1/page3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/3_웹크롤링/html/ver2/css/style1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/3_웹크롤링/html/ver2/page1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/3_웹크롤링/html/ver2/page2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/3_웹크롤링/html/ver2/page3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/3_웹크롤링/html/ver3/css/style1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/3_웹크롤링/html/ver3/js/script1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/3_웹크롤링/html/ver3/js/script2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/3_웹크롤링/html/ver3/js/script3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/3_웹크롤링/html/ver3/page1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/3_웹크롤링/html/ver3/page2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/3_웹크롤링/html/ver3/page3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/3_웹크롤링/js/script1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/3_웹크롤링/js/script2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/3_웹크롤링/js/script3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/3_웹크롤링/웹크롤링_예제1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/3_웹크롤링/웹크롤링_예제2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/4_브라우저제어/.ipynb_checkpoints/1_브라우저_텍스트입력_자동화-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/4_브라우저제어/.ipynb_checkpoints/2_XPath로_HTML요소_검색-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/4_브라우저제어/1_브라우저_텍스트입력_자동화.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/4_브라우저제어/2_XPath로_HTML요소_검색.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/4_브라우저제어/네이버_프로야구검색후.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/4_브라우저제어/네이버_현재_1등팀_정보_24-08-22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/4_브라우저제어/네이버메인.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/5_네이버맛집크롤링/.ipynb_checkpoints/1_기본테스트-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/02_자연어수집/2_웹스크래핑/5_네이버맛집크롤링/1_기본테스트.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/03_추천시스템/01_협업필터링/.ipynb_checkpoints/1_협업필터링기반_추천_별점기반예제-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/03_추천시스템/01_협업필터링/1_협업필터링기반_추천_별점기반예제.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/03_추천시스템/02_콘텐츠기반추천/.ipynb_checkpoints/콘텐츠기반필터링-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/03_추천시스템/02_콘텐츠기반추천/ml-100k-plot.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/03_추천시스템/02_콘텐츠기반추천/u.item" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/03_추천시스템/02_콘텐츠기반추천/콘텐츠기반필터링.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/2_2_1_비지도학습_감성분석.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/2_2_1_비지도학습_감성분석.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_AI/05_자연어처리/01_텍스트마이닝/data/labeledTrainData.tsv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -517,7 +683,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724125452693</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="0822">
+      <option name="closed" value="true" />
+      <created>1724308439993</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1724308439993</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -527,7 +701,8 @@
     <MESSAGE value="0814" />
     <MESSAGE value="0819" />
     <MESSAGE value="0820" />
-    <option name="LAST_COMMIT_MESSAGE" value="0820" />
+    <MESSAGE value="0822" />
+    <option name="LAST_COMMIT_MESSAGE" value="0822" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
